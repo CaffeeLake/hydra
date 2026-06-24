@@ -18,14 +18,14 @@
     "@openapitools/openapi-generator-cli": "2.30.2"
   },
   "devDependencies": {
-    "cypress": "9.7.0",
+    "cypress": "15.18.0",
     "dayjs": "1.11.20",
     "doctoc": "2.4.0",
-    "jsonwebtoken": "8.5.1",
+    "jsonwebtoken": "9.0.0",
     "license-checker": "25.0.1",
     "prettier": "3.8.2",
     "standard": "17.1.2",
-    "uuid": "8.3.2",
+    "uuid": "14.0.1",
     "wait-on": "9.0.1"
   },
   "overrides": {
